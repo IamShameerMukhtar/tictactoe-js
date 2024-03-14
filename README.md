@@ -1,4 +1,4 @@
- <h1>Tic-Tac-Toe Web Game<h1/>
+ <h1>Tic-Tac-Toe Web Game</h1>
 Welcome to the Tic-Tac-Toe Web Game! This is a simple implementation of the classic Tic-Tac-Toe game playable in your web browser.
 Features
 - Clean and intuitive user interface
